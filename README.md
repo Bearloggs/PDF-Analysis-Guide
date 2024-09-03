@@ -1,4 +1,4 @@
-# PDF Malware Analysis Guide
+# PDF Analysis Guide
 
 This guide provides instructions on how to analyze a PDF file to determine if it is malicious. The steps include using various open-source tools to inspect the content, structure, and behavior of the PDF file.
 
